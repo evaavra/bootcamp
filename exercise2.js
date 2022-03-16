@@ -39,3 +39,4 @@ while (input != "stop"){
 }
 
 console.log(names(array1));
+console.log("program is done!");
